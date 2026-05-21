@@ -1,1 +1,12 @@
-
+sku_id,sku_name,category,agmarknet_commodity_name,typical_unit,passes_spelling_rule,passes_3mandi_rule,locked_date
+SKU001,Onion,Staple,Onion,kg,Y,Y,2026-05-21
+SKU002,Tomato,Staple,Tomato,kg,Y,Y,2026-05-21
+SKU003,Potato,Staple,Potato,kg,Y,Y,2026-05-21
+SKU004,Cauliflower,Volatile,Cauliflower,kg,Y,Y,2026-05-21
+SKU005,Capsicum,Premium,Capsicum,kg,Y,Y,2026-05-21
+SKU006,Cabbage,Staple,Cabbage,kg,Y,Y,2026-05-21
+SKU007,Bottle gourd,Volatile,Bottle gourd,kg,Y,Y,2026-05-21
+SKU008,Brinjal,Staple,Brinjal,kg,Y,Y,2026-05-21
+SKU009,Carrot,Staple,Carrot,kg,Y,Y,2026-05-21
+SKU010,Pumpkin,Volatile,Pumpkin,kg,Y,Y,2026-05-21
+SKU011,Spinach,Volatile,Spinach,kg,Y,Y,2026-05-21
