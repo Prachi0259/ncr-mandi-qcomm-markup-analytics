@@ -1,4 +1,5 @@
-NCR Mandi-to-Doorstep Markup Analytics
+#NCR Mandi-to-Doorstep Markup Analytics
+
 Quantifying supply-chain markup between Delhi NCR wholesale mandis and quick-commerce retail prices for 11 fresh-produce SKUs.
 Project Objective
 Identify markup magnitude, volatility, and price-lag patterns across the NCR wholesale-to-doorstep chain to surface direct-sourcing and pricing opportunities for q-commerce category teams.
