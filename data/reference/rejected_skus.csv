@@ -1,7 +1,0 @@
-candidate,agmarknet_spelling,total_rows,azadpur,gazipur,keshopur,rejection_reason,date
-Cucumber,Cucumbar(Kheera),385,131,112,142,Spelling rule violation (parentheses + qualifier),2026-05-21
-Mushroom,Mashrooms,128,128,0,0,Spelling rule violation + only 1 mandi,2026-05-21
-Lemon,Lemon,174,81,93,0,3-mandi rule violation (no Keshopur),2026-05-21
-Garlic,Garlic,131,131,0,0,3-mandi rule violation (Azadpur only),2026-05-21
-Beetroot,Beetroot,76,76,0,0,3-mandi rule violation (Azadpur only),2026-05-21
-Raddish,Raddish,380,129,107,144,Spelling rule violation (non-canonical English spelling),2026-05-21
