@@ -1,1 +1,7 @@
-
+candidate_sku,agmarknet_spelling,total_rows,azadpur_rows,gazipur_rows,keshopur_rows,spelling_rule,coverage_rule,rejection_reason,date_tested
+Cucumber,Cucumbar(Kheera),385,131,112,142,FAIL,PASS,Non-canonical spelling with parentheses and alternate name,2026-05-21
+Mushroom,Mashrooms,128,128,0,0,FAIL,FAIL,Non-canonical spelling and only 1 mandi (Azadpur only),2026-05-21
+Lemon,Lemon,174,81,93,0,PASS,FAIL,No data at Keshopur APMC,2026-05-21
+Garlic,Garlic,131,131,0,0,PASS,FAIL,Data at Azadpur APMC only,2026-05-21
+Beetroot,Beetroot,76,76,0,0,PASS,FAIL,Data at Azadpur APMC only,2026-05-21
+Raddish,Raddish,380,129,107,144,FAIL,PASS,Non-canonical English spelling (standard is Radish),2026-05-21
