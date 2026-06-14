@@ -1,1 +1,100 @@
-
+capture_date,platform,area_name,city,sku_name,category,listed_price_rs,pack_size_g,price_per_kg,discount_flag,out_of_stock
+2026-06-11,Blinkit,Connaught Place,Delhi,Onion,Staple,31,1000,31.0,Y,N
+2026-06-11,Blinkit,Connaught Place,Delhi,Tomato,Staple,42,500,84.0,Y,N
+2026-06-11,Blinkit,Connaught Place,Delhi,Potato,Staple,23,1000,23.0,Y,N
+2026-06-11,Blinkit,Connaught Place,Delhi,Cauliflower,Volatile,52,400,130.0,Y,N
+2026-06-11,Blinkit,Connaught Place,Delhi,Capsicum,Premium,44,250,176.0,Y,N
+2026-06-11,Blinkit,Connaught Place,Delhi,Cabbage,Staple,19,400,47.5,Y,N
+2026-06-11,Blinkit,Connaught Place,Delhi,Bottle gourd,Volatile,22,400,55.0,Y,N
+2026-06-11,Blinkit,Connaught Place,Delhi,Brinjal,Staple,28,500,56.0,Y,N
+2026-06-11,Blinkit,Connaught Place,Delhi,Carrot,Staple,15,200,75.0,Y,N
+2026-06-11,Blinkit,Connaught Place,Delhi,Pumpkin,Volatile,48,1500,32.0,Y,N
+2026-06-11,Blinkit,Connaught Place,Delhi,Spinach,Volatile,12,200,60.0,Y,N
+2026-06-11,Blinkit,Cyber Hub Gurgaon,Gurgaon,Onion,Staple,32,1000,32.0,Y,N
+2026-06-11,Blinkit,Cyber Hub Gurgaon,Gurgaon,Tomato,Staple,40,500,80.0,Y,N
+2026-06-11,Blinkit,Cyber Hub Gurgaon,Gurgaon,Potato,Staple,23,1000,23.0,Y,N
+2026-06-11,Blinkit,Cyber Hub Gurgaon,Gurgaon,Cauliflower,Volatile,65,400,162.5,Y,N
+2026-06-11,Blinkit,Cyber Hub Gurgaon,Gurgaon,Capsicum,Premium,35,250,140.0,Y,N
+2026-06-11,Blinkit,Cyber Hub Gurgaon,Gurgaon,Cabbage,Staple,0,0,0.0,N,Y
+2026-06-11,Blinkit,Cyber Hub Gurgaon,Gurgaon,Bottle gourd,Volatile,0,0,0.0,N,Y
+2026-06-11,Blinkit,Cyber Hub Gurgaon,Gurgaon,Brinjal,Staple,34,500,68.0,Y,N
+2026-06-11,Blinkit,Cyber Hub Gurgaon,Gurgaon,Carrot,Staple,15,200,75.0,Y,N
+2026-06-11,Blinkit,Cyber Hub Gurgaon,Gurgaon,Pumpkin,Volatile,47,500,94.0,Y,N
+2026-06-11,Blinkit,Cyber Hub Gurgaon,Gurgaon,Spinach,Volatile,13,200,65.0,Y,N
+2026-06-11,Blinkit,Sector 18 Noida,Noida,Onion,Staple,30,1000,30.0,N,N
+2026-06-11,Blinkit,Sector 18 Noida,Noida,Tomato,Staple,32,500,64.0,N,N
+2026-06-11,Blinkit,Sector 18 Noida,Noida,Potato,Staple,24,1000,24.0,N,N
+2026-06-11,Blinkit,Sector 18 Noida,Noida,Cauliflower,Volatile,66,400,165.0,N,N
+2026-06-11,Blinkit,Sector 18 Noida,Noida,Capsicum,Premium,45,250,180.0,N,N
+2026-06-11,Blinkit,Sector 18 Noida,Noida,Cabbage,Staple,17,400,42.5,N,N
+2026-06-11,Blinkit,Sector 18 Noida,Noida,Bottle gourd,Volatile,23,400,57.5,N,N
+2026-06-11,Blinkit,Sector 18 Noida,Noida,Brinjal,Staple,37,500,74.0,N,N
+2026-06-11,Blinkit,Sector 18 Noida,Noida,Carrot,Staple,15,200,75.0,N,N
+2026-06-11,Blinkit,Sector 18 Noida,Noida,Pumpkin,Volatile,35,1500,23.33,N,N
+2026-06-11,Blinkit,Sector 18 Noida,Noida,Spinach,Volatile,46,200,230.0,N,N
+2026-06-11,Zepto,Preet Vihar Delhi,Delhi,Onion,Staple,27,500,54.0,N,N
+2026-06-11,Zepto,Preet Vihar Delhi,Delhi,Tomato,Staple,51,500,102.0,N,N
+2026-06-11,Zepto,Preet Vihar Delhi,Delhi,Potato,Staple,20,1000,20.0,N,N
+2026-06-11,Zepto,Preet Vihar Delhi,Delhi,Cauliflower,Volatile,39,400,97.5,N,N
+2026-06-11,Zepto,Preet Vihar Delhi,Delhi,Capsicum,Premium,39,250,156.0,N,N
+2026-06-11,Zepto,Preet Vihar Delhi,Delhi,Cabbage,Staple,14,400,35.0,N,N
+2026-06-11,Zepto,Preet Vihar Delhi,Delhi,Bottle gourd,Volatile,19,500,38.0,N,N
+2026-06-11,Zepto,Preet Vihar Delhi,Delhi,Brinjal,Staple,17,250,68.0,N,N
+2026-06-11,Zepto,Preet Vihar Delhi,Delhi,Carrot,Staple,26,500,52.0,N,N
+2026-06-11,Zepto,Preet Vihar Delhi,Delhi,Pumpkin,Volatile,43,500,86.0,N,N
+2026-06-11,Zepto,Preet Vihar Delhi,Delhi,Spinach,Volatile,14,250,56.0,N,N
+2026-06-11,Zepto,Cyber Hub Gurgaon,Gurgaon,Onion,Staple,28,1000,28.0,N,N
+2026-06-11,Zepto,Cyber Hub Gurgaon,Gurgaon,Tomato,Staple,0,0,0.0,N,Y
+2026-06-11,Zepto,Cyber Hub Gurgaon,Gurgaon,Potato,Staple,19,1000,19.0,N,N
+2026-06-11,Zepto,Cyber Hub Gurgaon,Gurgaon,Cauliflower,Volatile,0,0,0.0,N,Y
+2026-06-11,Zepto,Cyber Hub Gurgaon,Gurgaon,Capsicum,Premium,64,500,128.0,N,N
+2026-06-11,Zepto,Cyber Hub Gurgaon,Gurgaon,Cabbage,Staple,14,400,35.0,N,N
+2026-06-11,Zepto,Cyber Hub Gurgaon,Gurgaon,Bottle gourd,Volatile,22,250,88.0,N,N
+2026-06-11,Zepto,Cyber Hub Gurgaon,Gurgaon,Brinjal,Staple,14,250,56.0,N,N
+2026-06-11,Zepto,Cyber Hub Gurgaon,Gurgaon,Carrot,Staple,16,300,53.33,N,N
+2026-06-11,Zepto,Cyber Hub Gurgaon,Gurgaon,Pumpkin,Volatile,43,500,86.0,N,N
+2026-06-11,Zepto,Cyber Hub Gurgaon,Gurgaon,Spinach,Volatile,43,250,172.0,N,N
+2026-06-11,Zepto,Sector 18 Noida,Noida,Onion,Staple,35,500,70.0,N,N
+2026-06-11,Zepto,Sector 18 Noida,Noida,Tomato,Staple,50,500,100.0,N,N
+2026-06-11,Zepto,Sector 18 Noida,Noida,Potato,Staple,18,1000,18.0,N,N
+2026-06-11,Zepto,Sector 18 Noida,Noida,Cauliflower,Volatile,111,400,277.5,N,N
+2026-06-11,Zepto,Sector 18 Noida,Noida,Capsicum,Premium,38,250,152.0,N,N
+2026-06-11,Zepto,Sector 18 Noida,Noida,Cabbage,Staple,10,400,25.0,N,N
+2026-06-11,Zepto,Sector 18 Noida,Noida,Bottle gourd,Volatile,18,250,72.0,N,N
+2026-06-11,Zepto,Sector 18 Noida,Noida,Brinjal,Staple,30,500,60.0,N,N
+2026-06-11,Zepto,Sector 18 Noida,Noida,Carrot,Staple,26,500,52.0,N,N
+2026-06-11,Zepto,Sector 18 Noida,Noida,Pumpkin,Volatile,40,500,80.0,N,N
+2026-06-11,Zepto,Sector 18 Noida,Noida,Spinach,Volatile,14,250,56.0,N,N
+2026-06-11,Instamart,Connaught Place,Delhi,Onion,Staple,31,1000,31.0,N,N
+2026-06-11,Instamart,Connaught Place,Delhi,Tomato,Staple,45,500,90.0,N,N
+2026-06-11,Instamart,Connaught Place,Delhi,Potato,Staple,23,1000,23.0,N,N
+2026-06-11,Instamart,Connaught Place,Delhi,Cauliflower,Volatile,72,400,180.0,N,N
+2026-06-11,Instamart,Connaught Place,Delhi,Capsicum,Premium,30,250,120.0,N,N
+2026-06-11,Instamart,Connaught Place,Delhi,Cabbage,Staple,19,450,42.22,N,N
+2026-06-11,Instamart,Connaught Place,Delhi,Bottle gourd,Volatile,30,400,75.0,N,N
+2026-06-11,Instamart,Connaught Place,Delhi,Brinjal,Staple,16,250,64.0,N,N
+2026-06-11,Instamart,Connaught Place,Delhi,Carrot,Staple,15,250,60.0,N,N
+2026-06-11,Instamart,Connaught Place,Delhi,Pumpkin,Volatile,35,1500,23.33,N,N
+2026-06-11,Instamart,Connaught Place,Delhi,Spinach,Volatile,36,500,72.0,N,N
+2026-06-11,Instamart,Cyber Hub Gurgaon,Gurgaon,Onion,Staple,31,1000,31.0,N,N
+2026-06-11,Instamart,Cyber Hub Gurgaon,Gurgaon,Tomato,Staple,49,500,98.0,N,N
+2026-06-11,Instamart,Cyber Hub Gurgaon,Gurgaon,Potato,Staple,23,1000,23.0,N,N
+2026-06-11,Instamart,Cyber Hub Gurgaon,Gurgaon,Cauliflower,Volatile,72,400,180.0,N,N
+2026-06-11,Instamart,Cyber Hub Gurgaon,Gurgaon,Capsicum,Premium,0,0,0.0,N,Y
+2026-06-11,Instamart,Cyber Hub Gurgaon,Gurgaon,Cabbage,Staple,17,400,42.5,N,N
+2026-06-11,Instamart,Cyber Hub Gurgaon,Gurgaon,Bottle gourd,Volatile,32,650,49.23,N,N
+2026-06-11,Instamart,Cyber Hub Gurgaon,Gurgaon,Brinjal,Staple,16,250,64.0,N,N
+2026-06-11,Instamart,Cyber Hub Gurgaon,Gurgaon,Carrot,Staple,15,250,60.0,N,N
+2026-06-11,Instamart,Cyber Hub Gurgaon,Gurgaon,Pumpkin,Volatile,35,1500,23.33,N,N
+2026-06-11,Instamart,Cyber Hub Gurgaon,Gurgaon,Spinach,Volatile,0,0,0.0,N,Y
+2026-06-11,Instamart,Sector 18 Noida,Noida,Onion,Staple,31,1000,31.0,N,N
+2026-06-11,Instamart,Sector 18 Noida,Noida,Tomato,Staple,42,500,84.0,N,N
+2026-06-11,Instamart,Sector 18 Noida,Noida,Potato,Staple,23,1000,23.0,N,N
+2026-06-11,Instamart,Sector 18 Noida,Noida,Cauliflower,Volatile,72,500,144.0,N,N
+2026-06-11,Instamart,Sector 18 Noida,Noida,Capsicum,Premium,0,0,0.0,N,Y
+2026-06-11,Instamart,Sector 18 Noida,Noida,Cabbage,Staple,19,650,29.23,N,N
+2026-06-11,Instamart,Sector 18 Noida,Noida,Bottle gourd,Volatile,30,400,75.0,N,N
+2026-06-11,Instamart,Sector 18 Noida,Noida,Brinjal,Staple,16,250,64.0,N,N
+2026-06-11,Instamart,Sector 18 Noida,Noida,Carrot,Staple,15,250,60.0,N,N
+2026-06-11,Instamart,Sector 18 Noida,Noida,Pumpkin,Volatile,35,1500,23.33,N,N
+2026-06-11,Instamart,Sector 18 Noida,Noida,Spinach,Volatile,0,0,0.0,N,Y
